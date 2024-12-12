@@ -145,7 +145,7 @@ body{
     display: flex;
     justify-content: center;
     position: sticky;
-    top:50px;
+    top:50;
     z-index: 3;
      
 }
